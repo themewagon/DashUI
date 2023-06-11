@@ -160,7 +160,7 @@ const CurrentPlan = () => {
             <div className="mb-3 mb-lg-0 text-center text-sm-start">
               <h5 className="text-uppercase mb-0">Payment method</h5>
               <div className="mt-2">
-                <Image src="./images/creditcard/mastercard.svg" alt="" />{" "}
+                <Image src="/images/creditcard/mastercard.svg" alt="" />{" "}
                 <span className="fw-bold">***8773</span>
               </div>
             </div>

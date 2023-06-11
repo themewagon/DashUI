@@ -67,7 +67,7 @@ const Navbars = () => {
                     <Navbar expand="lg">
                       <Navbar.Brand href="#home">
                         <Image
-                          src="./images/brand/logo/logo.svg"
+                          src="/images/brand/logo/logo.svg"
                           alt=""
                           loading="lazy"
                         />
@@ -141,7 +141,7 @@ const Navbars = () => {
                     <Navbar>
                       <Navbar.Brand href="#home">
                         <Image
-                          src="./images/brand/logo/logo-icon.svg"
+                          src="/images/brand/logo/logo-icon.svg"
                           width="30"
                           height="30"
                           alt=""
@@ -199,7 +199,7 @@ const Navbars = () => {
                     <Navbar bg="dark" variant="dark">
                       <Navbar.Brand href="#home">
                         <Image
-                          src="./images/brand/logo/logo.svg"
+                          src="/images/brand/logo/logo.svg"
                           alt=""
                           loading="lazy"
                         />
@@ -216,7 +216,7 @@ const Navbars = () => {
                         <Navbar.Brand href="#home">
                           {" "}
                           <Image
-                            src="./images/brand/logo/logo.svg"
+                            src="/images/brand/logo/logo.svg"
                             alt=""
                             loading="lazy"
                           />
@@ -233,7 +233,7 @@ const Navbars = () => {
                       <Container>
                         <Navbar.Brand href="#home">
                           <Image
-                            src="./images/brand/logo/logo.svg"
+                            src="/images/brand/logo/logo.svg"
                             alt=""
                             loading="lazy"
                           />

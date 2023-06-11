@@ -308,7 +308,7 @@ const Toasts = () => {
                         <Toast>
                           <Toast.Header closeButton={false}>
                             <Image
-                              src="./images/avatar/avatar-1.jpg"
+                              src="/images/avatar/avatar-1.jpg"
                               className="rounded me-2 avatar-xs"
                               alt="..."
                             />

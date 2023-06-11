@@ -22,7 +22,7 @@ const Layout = () => {
           <Link className="card" href="/">
             <Image
               className="card-img-top"
-              src="./images/layouts/default-classic.svg"
+              src="/images/layouts/default-classic.svg"
               alt="Image Description"
             />
             <div className="card-body text-center">

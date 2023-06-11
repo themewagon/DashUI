@@ -15,7 +15,7 @@ const ActivityFeed = () => {
             <div className="d-flex mb-5">
               <div>
                 <Image
-                  src="./images/avatar/avatar-6.jpg"
+                  src="/images/avatar/avatar-6.jpg"
                   className="rounded-circle avatar-md"
                   alt=""
                 />
@@ -31,7 +31,7 @@ const ActivityFeed = () => {
             <div className="d-flex mb-5">
               <div>
                 <Image
-                  src="./images/avatar/avatar-7.jpg"
+                  src="/images/avatar/avatar-7.jpg"
                   className="rounded-circle avatar-md"
                   alt=""
                 />
@@ -47,7 +47,7 @@ const ActivityFeed = () => {
             <div className="d-flex">
               <div>
                 <Image
-                  src="./images/avatar/avatar-9.jpg"
+                  src="/images/avatar/avatar-9.jpg"
                   className="rounded-circle avatar-md"
                   alt=""
                 />

@@ -14,7 +14,7 @@ const Error404 = () => {
           <div className="text-center">
             <div className="mb-3">
               <Image
-                src="./images/error/404-error-img.png"
+                src="/images/error/404-error-img.png"
                 alt=""
                 className="img-fluid"
               />

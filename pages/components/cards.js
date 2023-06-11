@@ -80,7 +80,7 @@ const Cards = () => {
                     <Card style={{ width: "18rem" }}>
                       <Card.Img
                         variant="top"
-                        src="./images/placeholder/placeholder-4by3.svg"
+                        src="/images/placeholder/placeholder-4by3.svg"
                       />
                       <Card.Body>
                         <Card.Title>Card Title</Card.Title>
@@ -346,7 +346,7 @@ const Cards = () => {
                     <Card style={{ width: "18rem" }}>
                       <Card.Img
                         variant="top"
-                        src="./images/placeholder/placeholder-4by3.svg"
+                        src="/images/placeholder/placeholder-4by3.svg"
                       />
                       <Card.Body>
                         <Card.Text>
@@ -403,7 +403,7 @@ const Cards = () => {
                     <Card style={{ width: "18rem" }}>
                       <Card.Img
                         variant="top"
-                        src="./images/placeholder/placeholder-4by3.svg"
+                        src="/images/placeholder/placeholder-4by3.svg"
                       />
                       <Card.Body>
                         <Card.Title>Card Title</Card.Title>
@@ -652,7 +652,7 @@ const Cards = () => {
                     <Card>
                       <Card.Img
                         variant="top"
-                        src="./images/placeholder/placeholder-4by3.svg"
+                        src="/images/placeholder/placeholder-4by3.svg"
                       />
                       <Card.Body>
                         <Card.Title>Card title</Card.Title>
@@ -685,7 +685,7 @@ const Cards = () => {
                       </Card.Body>
                       <Card.Img
                         variant="bottom"
-                        src="./images/placeholder/placeholder-4by3.svg"
+                        src="/images/placeholder/placeholder-4by3.svg"
                       />
                     </Card>
                     {/* end of code */}
@@ -737,7 +737,7 @@ const Cards = () => {
                     <Card className="bg-dark text-white">
                       <Card.Img
                         variant="bottom"
-                        src="./images/placeholder/placeholder-4by3.svg"
+                        src="/images/placeholder/placeholder-4by3.svg"
                       />
                       <Card.ImgOverlay>
                         <Card.Title>Card title</Card.Title>

@@ -37,7 +37,7 @@ const GeneralSetting = () => {
                 <div className="d-flex align-items-center">
                   <div className="me-3">
                     <Image
-                      src="./images/avatar/avatar-5.jpg"
+                      src="/images/avatar/avatar-5.jpg"
                       className="rounded-circle avatar avatar-lg"
                       alt=""
                     />

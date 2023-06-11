@@ -16,7 +16,7 @@ const SignUp = () => {
             <div className="mb-4">
               <Link href="/">
                 <Image
-                  src="./images/brand/logo/logo-primary.svg"
+                  src="/images/brand/logo/logo-primary.svg"
                   className="mb-2"
                   alt=""
                 />

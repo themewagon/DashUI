@@ -45,7 +45,7 @@ const RecentFromBlog = () => {
             <div className="d-flex align-items-center">
               <div>
                 <Image
-                  src="./images/avatar/avatar-1.jpg"
+                  src="/images/avatar/avatar-1.jpg"
                   alt=""
                   className="avatar avatar-md rounded-circle"
                 />
@@ -69,7 +69,7 @@ const RecentFromBlog = () => {
               libero vitae erat.
             </p>
             <Image
-              src="./images/blog/blog-img-1.jpg"
+              src="/images/blog/blog-img-1.jpg"
               className="rounded-3 w-100"
               alt=""
             />
@@ -93,7 +93,7 @@ const RecentFromBlog = () => {
                 {/* Image */}
                 <Image
                   alt="avatar"
-                  src="./images/avatar/avatar-7.jpg"
+                  src="/images/avatar/avatar-7.jpg"
                   className="rounded-circle"
                 />
               </span>
@@ -101,7 +101,7 @@ const RecentFromBlog = () => {
                 {/* Image */}
                 <Image
                   alt="avatar"
-                  src="./images/avatar/avatar-8.jpg"
+                  src="/images/avatar/avatar-8.jpg"
                   className="rounded-circle"
                 />
               </span>
@@ -109,7 +109,7 @@ const RecentFromBlog = () => {
                 {/* Image */}
                 <Image
                   alt="avatar"
-                  src="./images/avatar/avatar-9.jpg"
+                  src="/images/avatar/avatar-9.jpg"
                   className="rounded-circle"
                 />
               </span>
@@ -122,7 +122,7 @@ const RecentFromBlog = () => {
           <Row>
             <Col xl={1} lg={2} md={2} xs={12} className="mb-3 mb-lg-0">
               <Image
-                src="./images/avatar/avatar-1.jpg"
+                src="/images/avatar/avatar-1.jpg"
                 className="avatar avatar-md rounded-circle"
                 alt=""
               />

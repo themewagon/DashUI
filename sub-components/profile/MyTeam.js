@@ -11,7 +11,7 @@ const MyTeam = () => {
           <div className="d-flex align-items-center">
             <div>
               <Image
-                src="./images/avatar/avatar-1.jpg"
+                src="/images/avatar/avatar-1.jpg"
                 className="rounded-circle avatar-md"
                 alt=""
               />
@@ -37,7 +37,7 @@ const MyTeam = () => {
           <div className="d-flex align-items-center">
             <div>
               <Image
-                src="./images/avatar/avatar-2.jpg"
+                src="/images/avatar/avatar-2.jpg"
                 className="rounded-circle avatar-md"
                 alt=""
               />
@@ -63,7 +63,7 @@ const MyTeam = () => {
           <div className="d-flex align-items-center">
             <div>
               <Image
-                src="./images/avatar/avatar-3.jpg"
+                src="/images/avatar/avatar-3.jpg"
                 className="rounded-circle avatar-md"
                 alt=""
               />
@@ -87,7 +87,7 @@ const MyTeam = () => {
           <div className="d-flex align-items-center">
             <div>
               <Image
-                src="./images/avatar/avatar-4.jpg"
+                src="/images/avatar/avatar-4.jpg"
                 className="rounded-circle avatar-md"
                 alt=""
               />

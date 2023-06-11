@@ -85,21 +85,21 @@ const Carousels = () => {
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-1.jpg"
+                          src="/images/background/slider-img-1.jpg"
                           alt="First slide"
                         />
                       </Carousel.Item>
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-2.jpg"
+                          src="/images/background/slider-img-2.jpg"
                           alt="Second slide"
                         />
                       </Carousel.Item>
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-3.jpg"
+                          src="/images/background/slider-img-3.jpg"
                           alt="Third slide"
                         />
                       </Carousel.Item>
@@ -150,21 +150,21 @@ const Carousels = () => {
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-1.jpg"
+                          src="/images/background/slider-img-1.jpg"
                           alt="First slide"
                         />
                       </Carousel.Item>
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-2.jpg"
+                          src="/images/background/slider-img-2.jpg"
                           alt="Second slide"
                         />
                       </Carousel.Item>
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-3.jpg"
+                          src="/images/background/slider-img-3.jpg"
                           alt="Third slide"
                         />
                       </Carousel.Item>
@@ -218,21 +218,21 @@ const Carousels = () => {
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-1.jpg"
+                          src="/images/background/slider-img-1.jpg"
                           alt="First slide"
                         />
                       </Carousel.Item>
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-2.jpg"
+                          src="/images/background/slider-img-2.jpg"
                           alt="Second slide"
                         />
                       </Carousel.Item>
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-3.jpg"
+                          src="/images/background/slider-img-3.jpg"
                           alt="Third slide"
                         />
                       </Carousel.Item>
@@ -287,7 +287,7 @@ const Carousels = () => {
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-1.jpg"
+                          src="/images/background/slider-img-1.jpg"
                           alt="First slide"
                         />
                         <Carousel.Caption>
@@ -301,7 +301,7 @@ const Carousels = () => {
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-2.jpg"
+                          src="/images/background/slider-img-2.jpg"
                           alt="Second slide"
                         />
                         <Carousel.Caption>
@@ -315,7 +315,7 @@ const Carousels = () => {
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-3.jpg"
+                          src="/images/background/slider-img-3.jpg"
                           alt="Third slide"
                         />
                         <Carousel.Caption>
@@ -377,21 +377,21 @@ const Carousels = () => {
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-1.jpg"
+                          src="/images/background/slider-img-1.jpg"
                           alt="First slide"
                         />
                       </Carousel.Item>
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-2.jpg"
+                          src="/images/background/slider-img-2.jpg"
                           alt="Second slide"
                         />
                       </Carousel.Item>
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-3.jpg"
+                          src="/images/background/slider-img-3.jpg"
                           alt="Third slide"
                         />
                       </Carousel.Item>
@@ -445,21 +445,21 @@ const Carousels = () => {
                       <Carousel.Item interval={1000}>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-1.jpg"
+                          src="/images/background/slider-img-1.jpg"
                           alt="First slide"
                         />
                       </Carousel.Item>
                       <Carousel.Item interval={500}>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-2.jpg"
+                          src="/images/background/slider-img-2.jpg"
                           alt="Second slide"
                         />
                       </Carousel.Item>
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-3.jpg"
+                          src="/images/background/slider-img-3.jpg"
                           alt="Third slide"
                         />
                       </Carousel.Item>
@@ -514,7 +514,7 @@ const Carousels = () => {
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-1.jpg"
+                          src="/images/background/slider-img-1.jpg"
                           alt="First slide"
                         />
                         <Carousel.Caption>
@@ -528,7 +528,7 @@ const Carousels = () => {
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-2.jpg"
+                          src="/images/background/slider-img-2.jpg"
                           alt="Second slide"
                         />
                         <Carousel.Caption>
@@ -542,7 +542,7 @@ const Carousels = () => {
                       <Carousel.Item>
                         <Image
                           className="d-block w-100"
-                          src="./images/background/slider-img-3.jpg"
+                          src="/images/background/slider-img-3.jpg"
                           alt="Third slide"
                         />
                         <Carousel.Caption>
