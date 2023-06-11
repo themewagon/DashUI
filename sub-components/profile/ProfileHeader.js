@@ -20,7 +20,7 @@ const ProfileHeader = () => {
               {/* avatar */}
               <div className="avatar-xxl avatar-indicators avatar-online me-2 position-relative d-flex justify-content-end align-items-end mt-n10">
                 <Image
-                  src="/images/avatar/avatar-1.jpg"
+                  src="./images/avatar/avatar-1.jpg"
                   className="avatar-xxl rounded-circle border border-4 border-white-color-40"
                   alt=""
                 />
