@@ -1,9 +1,9 @@
 // import node module libraries
-import { Row, Col, Card, Form, Button, Image } from 'react-bootstrap';
-import Link from 'next/link';
+import { Row, Col, Card, Form, Button, Image } from "react-bootstrap";
+import Link from "next/link";
 
-// import authlayout to override default layout 
-import AuthLayout from 'layouts/AuthLayout';
+// import authlayout to override default layout
+import AuthLayout from "layouts/AuthLayout";
 
 const SignIn = () => {
   return (
@@ -14,7 +14,13 @@ const SignIn = () => {
           {/* Card body */}
           <Card.Body className="p-6">
             <div className="mb-4">
-              <Link href="/"><Image src="/images/brand/logo/logo-primary.svg" className="mb-2" alt="" /></Link>
+              <Link href="/">
+                <Image
+                  src="./images/brand/logo/logo-primary.svg"
+                  className="mb-2"
+                  alt=""
+                />
+              </Link>
               <p className="mb-6">Please enter your user information.</p>
             </div>
             {/* Form */}
@@ -22,13 +28,23 @@ const SignIn = () => {
               {/* Username */}
               <Form.Group className="mb-3" controlId="username">
                 <Form.Label>Username or email</Form.Label>
-                <Form.Control type="email" name="username" placeholder="Enter address here" required="" />
+                <Form.Control
+                  type="email"
+                  name="username"
+                  placeholder="Enter address here"
+                  required=""
+                />
               </Form.Group>
 
               {/* Password */}
               <Form.Group className="mb-3" controlId="password">
                 <Form.Label>Password</Form.Label>
-                <Form.Control type="password" name="password" placeholder="**************" required="" />
+                <Form.Control
+                  type="password"
+                  name="password"
+                  placeholder="**************"
+                  required=""
+                />
               </Form.Group>
 
               {/* Checkbox */}
@@ -41,14 +57,23 @@ const SignIn = () => {
               <div>
                 {/* Button */}
                 <div className="d-grid">
-                  <Button variant="primary" type="submit">Sign In</Button>
+                  <Button variant="primary" type="submit">
+                    Sign In
+                  </Button>
                 </div>
                 <div className="d-md-flex justify-content-between mt-4">
                   <div className="mb-2 mb-md-0">
-                    <Link href="/authentication/sign-up" className="fs-5">Create An Account </Link>
+                    <Link href="/authentication/sign-up" className="fs-5">
+                      Create An Account{" "}
+                    </Link>
                   </div>
                   <div>
-                    <Link href="/authentication/forget-password" className="text-inherit fs-5">Forgot your password?</Link>
+                    <Link
+                      href="/authentication/forget-password"
+                      className="text-inherit fs-5"
+                    >
+                      Forgot your password?
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -57,9 +82,9 @@ const SignIn = () => {
         </Card>
       </Col>
     </Row>
-  )
-}
+  );
+};
 
 SignIn.Layout = AuthLayout;
 
-export default SignIn
+export default SignIn;

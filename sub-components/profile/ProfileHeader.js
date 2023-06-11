@@ -33,7 +33,7 @@ const ProfileHeader = () => {
                   data-original-title="Verified"
                 >
                   <Image
-                    src="/images/svg/checked-mark.svg"
+                    src="./images/svg/checked-mark.svg"
                     alt=""
                     height="30"
                     width="30"
